@@ -1,0 +1,6 @@
+control\UsuarioCTO.class
+modelo\dao\UsuarioDAO.class
+modelo\dao\ContactoDAO.class
+modelo\dto\ContactoDTO.class
+control\ContactoCTO.class
+modelo\dto\UsuarioDTO.class
